@@ -19,7 +19,7 @@ Il nome **Ovunque** riflette la versatilità d'installazione: dalla scrivania de
 
 ---
 
-## TUO & CO.
+## AMOdoTUO.
 Il progetto è stato ideato, sviluppato e assemblato da:
 * **Alberto Pozzali**
 * **Matteo Pelizzari**
@@ -31,7 +31,7 @@ Il progetto è stato ideato, sviluppato e assemblato da:
 ## Proprietà Intellettuale e Licenza
 
 ### Brand & Design
-**TUO© 2026 TUO&CO. Tutti i diritti riservati.**
+**TUO© 2026 AMOdoTUO. Tutti i diritti riservati.**
 
 Il nome **"TUO"**, il logo e lo slogan **"Temperatura e Umidità Ovunque"** sono proprietà intellettuale esclusiva degli autori sopra citati. 
 * **Vietato** l'utilizzo del nome e del marchio per progetti di terzi.
