@@ -1,4 +1,4 @@
-# ![Logo TUO](Logo.png)TUO™ - Temperatura e Umidità Ovunque
+# ![Logo TUO](Banner.png)TUO™ - Temperatura e Umidità Ovunque
 
 > **"Il TUO sistema di misurazione, per misurare Temperatura e Umidità Ovunque"**
 
