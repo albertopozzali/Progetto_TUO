@@ -1,4 +1,4 @@
-# TUO™ - Temperatura Umidità Ovunque
+# TUO™ - Temperatura e Umidità Ovunque
 
 > **"Il TUO sistema di misurazione, per misurare Temperatura e Umidità Ovunque"**
 
@@ -33,6 +33,6 @@ Il progetto è stato ideato, sviluppato e assemblato da:
 ### Brand & Design
 **TUO© 2026 TUO&CO. Tutti i diritti riservati.**
 
-Il nome **"TUO"**, il logo e lo slogan **"Temperatura Umidità Ovunque"** sono proprietà intellettuale esclusiva degli autori sopra citati. 
+Il nome **"TUO"**, il logo e lo slogan **"Temperatura e Umidità Ovunque"** sono proprietà intellettuale esclusiva degli autori sopra citati. 
 * **Vietato** l'utilizzo del nome e del marchio per progetti di terzi.
 * **Vietata** la riproduzione del brand o dello slogan senza esplicito consenso scritto.
